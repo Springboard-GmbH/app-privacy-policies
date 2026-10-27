@@ -1,9 +1,6 @@
 ---
-
 title: Datenschutzerklärung – Manitou Lead App
-
 permalink: /manitou-lead-app/
-
 ---
 
 # Datenschutzerklärung – Manitou Lead App
@@ -18,13 +15,13 @@ Springboard GmbH
 Dornbachstraße 51
 61440 Oberursel
 Deutschland
-E-Mail: support@spring-board.dev
-Impressum: https://spring-board.dev/impressum
+E-Mail: [support@spring-board.dev](mailto:support@spring-board.dev)
+Impressum: [https://spring-board.dev/impressum](https://spring-board.dev/impressum)
 
 Verantwortlich für die Verarbeitung der über die App erfassten Lead- und Kontaktdaten ist der jeweilige Kunde bzw. Veranstalter, für den die App eingesetzt wird (nachfolgend „Kunde“). Der Anbieter verarbeitet diese Daten im Auftrag des Kunden und speichert sie in der vom Kunden genutzten Backend-Datenbank.
 
 Die Datenschutzerklärung des Kunden ist in der App verlinkt. Für die Manitou Lead App verweist diese auf:
-https://www.manitou.com/de-DE/datenschutz
+[https://www.manitou.com/de-DE/datenschutz](https://www.manitou.com/de-DE/datenschutz)
 
 ## 2. Zweck der App
 
@@ -98,4 +95,4 @@ Der Anbieter kann diese Datenschutzerklärung anpassen, wenn sich die App, die D
 Bei Fragen zum Datenschutz wenden Sie sich bitte an:
 
 Springboard GmbH
-E-Mail: support@spring-board.dev
+E-Mail: [support@spring-board.dev](mailto:support@spring-board.dev)
